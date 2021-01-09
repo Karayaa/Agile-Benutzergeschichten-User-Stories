@@ -21,11 +21,10 @@ Gleichzeitig haben wir uns verschiedene Frage zum Thema überlegt, die aus unser
 ## Verantwortlichkeiten im Team
 <br>
 
-| Miriam Karrer          | Alexander Maurer       | Fabienne Stoll         | Valentin Amann         |
-| ---                    | ---                    | ---                    | ---                    |
-| Themenrecherche        | Themenrecherche        | Themenrecherche        | Themenrecherche        |
-| Motion capture         | Dokumentation          | Erarbeitung der Fragen | Video Sound            |
-| Videoschnitt           | JSON Quiz              |                        | Voiceover              |
+| Miriam Karrer                 | Alexander Maurer          | Fabienne Stoll         | Valentin Amann         |
+| ---                           | ---                       | ---                    | ---                    |
+| Themenrecherche               | Themenrecherche           | Themenrecherche        | Themenrecherche        |
+| Motion capture & Videoschnitt | Dokumentation & JSON Quiz | Erarbeitung der Fragen | Sound & Voiceover      |
 
 <br><br><br>
 
