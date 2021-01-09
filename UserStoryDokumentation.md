@@ -24,7 +24,8 @@ Gleichzeitig haben wir uns verschiedene Frage zum Thema überlegt, die aus unser
 | Miriam Karrer          | Alexander Maurer       | Fabienne Stoll         | Valentin Amann         |
 | ---                    | ---                    | ---                    | ---                    |
 | Themenrecherche        | Themenrecherche        | Themenrecherche        | Themenrecherche        |
-| Videoschnitt           | Dokumentation & Quiz   | Erarbeitung der Fragen | Videosprecher          |
+| Motion capture         | Dokumentation          | Erarbeitung der Fragen | Video Sound            |
+| Videoschnitt           | JSON Quiz              |                        | Voiceover              |
 
 <br><br><br>
 
